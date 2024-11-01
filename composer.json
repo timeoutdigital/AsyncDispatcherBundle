@@ -1,5 +1,5 @@
 {
-    "name": "bbit/async-dispatcher-bundle",
+    "name": "timeoutdigital/async-dispatcher-bundle",
     "type": "symfony-bundle",
     "description": "symfony BBITAsyncDispatcherBundle",
     "license": "MIT",
